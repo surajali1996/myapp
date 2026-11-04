@@ -1,0 +1,6 @@
+{
+  "name": "CandlePulse",
+  "description": "Live real-time candlestick trading chart with interactive drawing tools, move, lock, delete, and price sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
